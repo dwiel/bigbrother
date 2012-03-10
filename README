@@ -1,0 +1,9 @@
+Features:
+
+  * automatically full screen incoming skype calls
+  * move mouse around slowly during full screen skype calls to keep the 
+    computer from sleeping
+
+Instructions:
+  
+  * leave bigbrother.py running in the background, or have it start on boot
